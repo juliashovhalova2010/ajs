@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/@juliashovhalova2010"
   },
   "scripts": {
     "build": "webpack --mode production"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/juliashovhalova2010/ajs.git"
   },
-  "author": "",
+  "author": "juliashovhalova2010",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/juliashovhalova2010/ajs/issues"
