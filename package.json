@@ -4,7 +4,7 @@
   "description": "\"# ajs\"",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "build": "webpack --mode production"
@@ -19,7 +19,7 @@
     "url": "https://github.com/juliashovhalova2010/ajs/issues"
   },
   "homepage": "https://github.com/juliashovhalova2010/ajs#readme",
-  "dependencies": {
+  "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.3",
     "@babel/preset-env": "^7.20.2",
